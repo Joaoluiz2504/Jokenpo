@@ -32,10 +32,10 @@ pelo computador.
 
 ## Imagens
 
-<img src="/public/readme1.png">
-<img src="/public/readme2.png">
-<img src="/public/readme3.png">
-<img src="/public/readme4.png">
+![image](https://github.com/user-attachments/assets/3cbee6be-ca4c-4a6a-90b2-efdaf987a283)
+![image](https://github.com/user-attachments/assets/41ff6826-496c-4a53-a3d8-1c84d37efd60)
+![image](https://github.com/user-attachments/assets/129e6682-6bdc-4d8c-a08b-eec9503c0f83)
+![image](https://github.com/user-attachments/assets/209c7643-a3b9-4a52-a42a-5ecf5fcedb7f)
 
 ## Vídeos e GIFs
 
